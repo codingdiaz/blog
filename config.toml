@@ -1,0 +1,33 @@
+  
+baseurl = "https://www.blog.chrisdiaz.net"
+languageCode = "en"
+title = "@codingdiaz"
+theme = "dream"
+defaultContentLanguage = "en"
+[params]
+  background = "lightblue"
+  backgroundImage = "/me/background.jpg"
+  linkColor = "teal"
+
+  author = "Christopher Diaz"
+  description = "A blog of all the things"
+  avatar = "img/me.jpg"
+  motto = "Simple"
+
+  #email = "g1enyy0ung@gmail.com"
+  twitter = "codingdiaz"
+  #facebook = "g1eny0ung"
+  #instagram = "g1enyy0ung"
+  #linkedin = "钺杨g1eny0ung"
+  github = "codingdiaz"
+  #stackoverflow = "5676489/g1eny0ung"
+  #codepen = "g1eny0ung"
+
+  siteStartYear = 2020
+
+  favicon = "/favicon.ico"
+
+  # dark mode
+  darkLinkColor = "darklightblue"
+  darkNav = true
+  dark404 = true

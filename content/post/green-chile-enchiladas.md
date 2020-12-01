@@ -9,8 +9,7 @@ draft = false
 tags = ["recipe", "vegetarian"]
 +++
 
-<img src="/img/green-chile-enchiladas/main.jpeg" alt="food" width="50%" height="50%">
-
+![](/img/green-chile-enchiladas/main.jpeg)
 
 I have been doing a fair amount of cooking lately, I typically use recipes to cook but, I rarely follow them exactly. Tonight I made a recipe of my own, I plan to start sharing more of what I cook.
 
